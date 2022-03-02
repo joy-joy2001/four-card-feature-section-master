@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [](github.com/joy-joy2001/four-card-feature-section-master)
+- Live Site URL: [](https://joy-joy2001.github.io/four-card-feature-section-master/)
 
 ## My process
 
